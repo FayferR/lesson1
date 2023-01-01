@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">lesson1</string>
+    <string name="random">random</string>
+    <string name="main_images">main_images</string>
+    <string name="submit">submit</string>
+    <string name="you_should_URL">You should input URL</string>
+</resources>
